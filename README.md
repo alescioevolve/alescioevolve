@@ -85,7 +85,7 @@ const alescio = {
 | Project | Role | Stack | Status |
 |---------|------|-------|--------|
 | [🛍️ ShopGoodee](https://www.shopgoodee.com) | Product Designer & Frontend Engineer | React · Next.js · Figma · Laravel | 🟢 Live |
-| [💎 Ruby+](https://www.rubyaggregators.com) | Product Designer & Frontend Engineer | React · Figma · Node.js | 🟢 Live |
+| [💎 Ruby Aggregators](https://www.rubyaggregators.com) | Product Designer & Frontend Engineer | React · Figma · Node.js | 🟢 Live |
 | [🚚 RoadBees.co.uk](https://www.roadbees.co.uk) | Website Developer | React · PHP · Laravel · REST APIs | 🟢 Live |
 | [🏥 Link Medical Lab](https://linkmedicallab.com) | Website Manager & Frontend Dev | WordPress · SEO · Web Analytics | 🟢 Live |
 | 🗳️ FUTO E-Voting System | Frontend Developer | React · WebSocket · Figma | 🟢 In Production @ FUTO |
